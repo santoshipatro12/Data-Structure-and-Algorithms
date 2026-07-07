@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
