@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2404-most-frequent-even-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2404-most-frequent-even-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -62,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
+| [2404-most-frequent-even-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
