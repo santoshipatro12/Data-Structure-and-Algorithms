@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
+| [1920-build-array-from-permutation](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
