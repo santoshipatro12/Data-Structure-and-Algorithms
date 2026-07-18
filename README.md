@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
