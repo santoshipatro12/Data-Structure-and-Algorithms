@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1672-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
