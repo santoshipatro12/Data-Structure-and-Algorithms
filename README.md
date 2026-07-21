@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
+| [0365-water-and-jug-problem](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0365-water-and-jug-problem) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
