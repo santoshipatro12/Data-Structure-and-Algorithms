@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0365-water-and-jug-problem](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0365-water-and-jug-problem) |
