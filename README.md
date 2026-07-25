@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0485-max-consecutive-ones) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
 | [0365-water-and-jug-problem](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0365-water-and-jug-problem) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Depth-First Search
 |  |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
