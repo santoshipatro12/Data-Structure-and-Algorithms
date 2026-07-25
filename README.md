@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
 | [0365-water-and-jug-problem](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0365-water-and-jug-problem) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1492-the-kth-factor-of-n](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
+| [1492-the-kth-factor-of-n](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Depth-First Search
 |  |
