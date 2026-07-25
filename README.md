@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/2418-sort-the-people) |
 ## String Matching
