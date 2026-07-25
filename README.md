@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0231-power-of-two) |
 | [0365-water-and-jug-problem](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0365-water-and-jug-problem) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1492-the-kth-factor-of-n](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1492-the-kth-factor-of-n) |
@@ -157,4 +158,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
