@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0867-transpose-matrix) |
 | [0941-valid-mountain-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0941-valid-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1480-running-sum-of-1d-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/2418-sort-the-people) |
 ## String Matching
 |  |
