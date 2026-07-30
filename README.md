@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0867-transpose-matrix) |
 | [0941-valid-mountain-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0941-valid-mountain-array) |
 | [1089-duplicate-zeros](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1089-duplicate-zeros) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1672-richest-customer-wealth) |
