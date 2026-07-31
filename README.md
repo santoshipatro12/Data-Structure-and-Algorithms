@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0238-product-of-array-except-self) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0771-jewels-and-stones) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0922-sort-array-by-parity-ii) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/2404-most-frequent-even-element) |
 ## Simulation
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
