@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0485-max-consecutive-ones) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0922-sort-array-by-parity-ii) |
