@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0485-max-consecutive-ones) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0365-water-and-jug-problem](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0365-water-and-jug-problem) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1492-the-kth-factor-of-n](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1492-the-kth-factor-of-n) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0771-jewels-and-stones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0922-sort-array-by-parity-ii) |
@@ -222,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
