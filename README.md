@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0867-transpose-matrix) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1991-find-the-middle-index-in-array) |
