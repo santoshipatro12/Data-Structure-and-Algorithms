@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1480-running-sum-of-1d-array) |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
