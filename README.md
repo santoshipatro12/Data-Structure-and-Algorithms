@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0771-jewels-and-stones) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
