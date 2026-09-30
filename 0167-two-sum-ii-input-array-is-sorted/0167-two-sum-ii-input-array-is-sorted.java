@@ -1,18 +1,20 @@
 class Solution {
-    public int[] twoSum(int[] numbers, int target) {
-        int n = numbers.length;
-        int left =0; 
-        int right = n-1;
+    public int[] twoSum(int[] nums, int target) {
+        int left =0;
+        int right = nums.length-1;
 
         while(left < right){
-            if(numbers[left] + numbers[right]==target){
-                return new int [] {left +1, right+1};
+            int sum = nums[left]+ nums[right];
+
+            if(sum == target){
+                return new int[]{left+1, right+1};
             }
-            else if(numbers[left] + numbers[right]  > target){
-                right --;
+            else if(sum<target){
+                left++;
             }
-            else left++;
+            else right--;
+           
         }
-        return new int [] {-1, -1};
+         return new int[]{-1,-1};
     }
 }
