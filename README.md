@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
