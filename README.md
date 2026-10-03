@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0763-partition-labels](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0922-sort-array-by-parity-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0844-backspace-string-compare) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1768-merge-strings-alternately](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1768-merge-strings-alternately) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1929-concatenation-of-array) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0844-backspace-string-compare) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Monotonic Stack
 |  |
