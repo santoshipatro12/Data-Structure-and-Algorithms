@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0881-boats-to-save-people) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0796-rotate-string) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0567-permutation-in-string) |
 ## Enumeration
 |  |
 | ------- |
