@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0567-permutation-in-string) |
 ## Enumeration
