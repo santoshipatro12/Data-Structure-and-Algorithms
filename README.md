@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0941-valid-mountain-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [1748-sum-of-unique-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2404-most-frequent-even-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/2404-most-frequent-even-element) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0904-fruit-into-baskets) |
 ## Enumeration
 |  |
 | ------- |
