@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1089-duplicate-zeros](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1480-running-sum-of-1d-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1748-sum-of-unique-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2404-most-frequent-even-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/2404-most-frequent-even-element) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0992-subarrays-with-k-different-integers](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1748-sum-of-unique-elements](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/2404-most-frequent-even-element) |
 ## Simulation
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 ## Enumeration
 |  |
 | ------- |
