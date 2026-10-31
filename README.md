@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1089-duplicate-zeros) |
 | [1248-count-number-of-nice-subarrays](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1991-find-the-middle-index-in-array) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Enumeration
