@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0088-merge-sorted-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0125-valid-palindrome) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Counting
@@ -383,4 +386,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0014-longest-common-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
