@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0881-boats-to-save-people) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0796-rotate-string) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Number Theory
 |  |
