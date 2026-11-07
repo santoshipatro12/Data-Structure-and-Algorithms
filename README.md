@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0686-repeated-string-match) |
 | [0763-partition-labels](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0796-rotate-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Counting
@@ -401,14 +403,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/santoshipatro12/Data-Structure-and-Algorithms/tree/master/0686-repeated-string-match) |
 ## Manacher
 |  |
 | ------- |
